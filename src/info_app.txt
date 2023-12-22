@@ -1,0 +1,1 @@
+This is a calculator in Java. You heed to have a java-machine.
